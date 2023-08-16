@@ -114,7 +114,7 @@ export default {
 .button-setting {
   padding: 0 24px;
   border: 1px solid #009B62;
-  font-size: 18px;
+  font-size: 15px;
   color: #FFFFFF;
   line-height: 50px;
   border-radius: 4px;
